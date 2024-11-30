@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "mntB4TTe4USpK61XhGv5csEV3fBCJw2uZrHbLaz6roU",
+  "symbol": "CALF",
+  "name": "CALF COIN",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/calfcoinmaster/resources/refs/heads/main/image.png",
+  "tags": ["social-token"]
+}
